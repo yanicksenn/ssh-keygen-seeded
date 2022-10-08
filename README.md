@@ -34,6 +34,9 @@ ssh-keygen-seeded -h
 ssh-keygen-seeded --help
 ```
 
+## Supported algorithms
+
+- RSA
 
 ## Disclaimer
 This tool does not really follow any security standards and should probably 
