@@ -1,3 +1,7 @@
+## What does it do?
+
+This tool can generate seeded ssh keypairs. This is practical for personal ssh-keypairs as they dont have to be transmitted through the internet when a new machine is set up.
+
 ## Build requirements
 
 - Maven
